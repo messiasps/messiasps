@@ -1,6 +1,6 @@
 ### Olá pessoal, eu sou Messias Pereira, sou estudante de programação!
 
--  Estudando Dart/Flutter
+-  Estudando Dart / Flutter
 
 #
 
