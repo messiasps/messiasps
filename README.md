@@ -1,29 +1,18 @@
-### Olá pessoal, eu sou Messias Pereira, sou estudante de programação!
+<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
 
--  Estudando Flutter
+## Hello World ☕
 
-#
+Me chamo Messias Souza, sou estudante de tecnologia da informação desde 2013, apaixonado por programação. Atualmente faço ensino superior em Sistemas de Informação pela Universidade Federal do Ceará, também faço alguns cursos em plataformas online para aprimorar meus conhecimentos. No momento atual estou estudando desenvolvimento mobile com Flutter.
 
-<div align="center">
-  <a href="https://github.com/messiasps">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=messiasps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=messiasps&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+#### Caso queira entrar em contato:
 
-#
-  
-<div style="display: inline_block"><br>
-
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-
-#
-
-<div> 
-<a href = "mailto:contatomessiaspereira13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/messiaspereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<p align="left">  
+  <a href="https://www.linkedin.com/in/messiaspereira" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/messiaspereira"/></a>
+  <a href="mailto:contatomessiaspereira13@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-6610F2?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&link=mailto:contatomessiaspereira13@gmail.com"/>
+  </a>
+  <a href="" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link="/>
+  </a>
+</p>
