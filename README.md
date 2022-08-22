@@ -2,7 +2,7 @@
 
 ## Hello World ☕
 
-Me chamo Messias Souza, sou estudante de tecnologia da informação desde 2013, apaixonado por programação. Atualmente faço ensino superior em Sistemas de Informação pela Universidade Federal do Ceará, também faço alguns cursos em plataformas online para aprimorar meus conhecimentos. No momento atual estou estudando desenvolvimento mobile com Flutter.
+Me chamo Messias Souza, sou estudante de tecnologia da informação desde 2013, apaixonado por programação. Cursando ensino superior em Sistemas de Informação pela Universidade Federal do Ceará e também faço alguns cursos em plataformas online para aprimorar meus conhecimentos. Atualmente estou estudando desenvolvimento mobile com Flutter.
 
 #### Caso queira entrar em contato:
 
