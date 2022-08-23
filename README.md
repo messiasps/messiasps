@@ -13,7 +13,7 @@ Me chamo Messias Souza, sou estudante de tecnologia da informação desde 2013, 
     <img src="https://img.shields.io/badge/-Gmail-6610F2?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&link=mailto:contatomessiaspereira13@gmail.com"/>
   </a>
   
-  <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/@Messias#7585"/>
+  <a href="https://discord.com/channels/@Messias#7585" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.com/channels/@Messias#7585"/>
   </a>
 </p>
