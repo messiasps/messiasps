@@ -14,6 +14,6 @@ Me chamo Messias Souza, sou estudante de tecnologia da informação desde 2013, 
   </a>
   
   <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/Messias#7585"/>
+    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/@Messias#7585"/>
   </a>
 </p>
