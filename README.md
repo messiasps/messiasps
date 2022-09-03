@@ -1,6 +1,6 @@
 <img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
 
-## Hi guys ☕
+## Hi guys 👋
 
 Me chamo Messias Souza, sou estudante de tecnologia da informação desde 2013, apaixonado por programação. Cursando ensino superior em Sistemas de Informação pela Universidade Federal do Ceará e também faço alguns cursos em plataformas online para aprimorar meus conhecimentos. Atualmente estou estudando desenvolvimento mobile com **Flutter**.
 
