@@ -2,7 +2,7 @@
 
 ## Hi guys 👋
 
-Me chamo Messias Souza, sou desenvolvedor mobile Flutter, apaixonado por programação. Cursando ensino superior em Sistemas de Informação pela Universidade Federal do Ceará e também faço alguns cursos em plataformas online para aprimorar meus conhecimentos. Minha stack principal é a mobile com **Flutter**, na qual busco desenvolver soluções simples para diversos problemas.
+Profissional com experiência na área de programação, desenvolvimento frontend de sistemas web, manutenções e aplicações destes sistemas. Atualmente venho estudando e aprimorando meus conhecimentos em desenvolvimento mobile flutter, no qual busco desenvolver soluções simples para diversos problemas.
 
 #### Caso queira entrar em contato:
 
